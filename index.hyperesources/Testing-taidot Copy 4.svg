@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="834px" height="832px" viewBox="0 0 834 832" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Testing-taidot Copy 4</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="CV-Material-design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Testing-taidot-Copy-4" transform="translate(10.000000, 10.000000)">
+            <g id="Group-25" transform="translate(30.000000, 28.000000)" stroke="#979797" stroke-opacity="0.2" stroke-width="75.6" stroke-linecap="round">
+                <ellipse id="Oval-98-Copy-9" cx="378" cy="378" rx="378" ry="378"></ellipse>
+            </g>
+            <g id="Group-26" transform="translate(126.000000, 124.000000)" stroke="#979797" stroke-opacity="0.2" stroke-width="75.6" stroke-linecap="round">
+                <ellipse id="Oval-98-Copy-10" cx="283.5" cy="283.5" rx="283.5" ry="283.5"></ellipse>
+            </g>
+            <g id="Group-27" transform="translate(222.000000, 220.000000)" stroke="#979797" stroke-opacity="0.2" stroke-width="75.6" stroke-linecap="round">
+                <ellipse id="Oval-98-Copy-11" cx="189" cy="189" rx="189" ry="189"></ellipse>
+            </g>
+            <g id="Group-Copy-5" stroke-width="20" stroke-linecap="round">
+                <path d="M190.158283,131.988401 C109.057068,195.991739 57,295.16658 57,406.5 C57,599.52352 213.47648,756 406.5,756 L406.5,756 C599.52352,756 756,599.52352 756,406.5 C756,213.47648 599.52352,57 406.5,57" id="Oval-98-Copy-18" stroke="#62D6FE"></path>
+                <path d="M228.661499,73.5411035 C109.950012,137.153858 29.2078652,262.39776 29.2078652,406.5 C29.2078652,614.987493 198.220372,784 406.707865,784 L406.707865,784 C615.195358,784 784.207865,614.987493 784.207865,406.5 C784.207865,198.012507 615.195358,29 406.707865,29" id="Oval-98-Copy-16" stroke="#00ABFB"></path>
+                <path d="M293.62494,15.752603 C124.058789,64.4919674 0,220.758242 0,406 C0,630.227608 181.772392,812 406,812 L406,812 C630.227608,812 812,630.227608 812,406 C812,181.772392 630.227608,0 406,0" id="Oval-98-Copy-17" stroke="#0078C3"></path>
+            </g>
+            <g id="Group-Copy-4" transform="translate(104.000000, 96.000000)" stroke-width="20" stroke-linecap="round">
+                <path d="M549.292956,236.668975 C517.618078,131.5569 420.060651,55 304.622402,55" id="Oval-98-Copy-18" stroke="#59E1EC"></path>
+                <path d="M51.4402084,437.760326 C97.8799589,530.967513 194.133086,595 305.341801,595 L305.341801,595 C461.914528,595 588.841801,468.072727 588.841801,311.5 C588.841801,154.927273 461.914528,28 305.341801,28" id="Oval-98-Copy-16" stroke="#00BFD8"></path>
+                <path d="M0.796215824,366.252524 C26.6711621,512.179447 154.143818,623 307.5,623 L307.5,623 C479.5367,623 619,483.5367 619,311.5 C619,139.4633 479.5367,0 307.5,0" id="Oval-98-Copy-17" stroke="#008591"></path>
+            </g>
+            <g id="Group-Copy-3" transform="translate(372.000000, 193.000000)" stroke-width="20" stroke-linecap="round">
+                <path d="M148.26274,100.30722 C119.364659,72.2643381 79.9484805,55 36.5,55" id="Oval-98-Copy-18" stroke="#65CDC4"></path>
+                <path d="M120.313644,385.693439 C182.917503,354.898838 226,290.480647 226,216 C226,111.618182 141.381818,27 37,27" id="Oval-98-Copy-16" stroke="#009988"></path>
+                <path d="M0.757349817,429.721543 C13.0139491,431.876269 25.6257439,433 38.5,433 L38.5,433 C158.069648,433 255,336.069648 255,216.5 C255,96.9303517 158.069648,-2.84217094e-14 38.5,-2.84217094e-14" id="Oval-98-Copy-17" stroke="#006B5C"></path>
+            </g>
+            <g id="Group-9" transform="translate(354.000000, 352.000000)" fill="#FFFFFF">
+                <path d="M98.28,-5.68434189e-14 L15.12,-5.68434189e-14 C7.56,-5.68434189e-14 0,7.56 0,15.12 L0,83.16 C0,90.72 7.56,98.28 15.12,98.28 L98.28,98.28 C105.84,98.28 113.4,90.72 113.4,83.16 L113.4,15.12 C113.4,7.56 105.84,-5.68434189e-14 98.28,-5.68434189e-14 L98.28,-5.68434189e-14 Z M56.7,90.72 C54.5832,90.72 52.92,89.0568 52.92,86.94 C52.92,84.8232 54.5832,83.16 56.7,83.16 C58.8168,83.16 60.48,84.8232 60.48,86.94 C60.48,89.0568 58.8168,90.72 56.7,90.72 L56.7,90.72 Z M105.84,75.6 L7.56,75.6 L7.56,7.56 L105.84,7.56 L105.84,75.6 L105.84,75.6 Z" id="Shape"></path>
+                <rect id="Rectangle" x="37.8" y="105.84" width="37.8" height="7.56"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

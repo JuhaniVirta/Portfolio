@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="832px" height="832px" viewBox="0 0 832 832" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Testing-taidot Copy 5</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M98.28,-5.68434189e-14 L15.12,-5.68434189e-14 C7.56,-5.68434189e-14 0,7.56 0,15.12 L0,83.16 C0,90.72 7.56,98.28 15.12,98.28 L98.28,98.28 C105.84,98.28 113.4,90.72 113.4,83.16 L113.4,15.12 C113.4,7.56 105.84,-5.68434189e-14 98.28,-5.68434189e-14 L98.28,-5.68434189e-14 Z M56.7,90.72 C54.5832,90.72 52.92,89.0568 52.92,86.94 C52.92,84.8232 54.5832,83.16 56.7,83.16 C58.8168,83.16 60.48,84.8232 60.48,86.94 C60.48,89.0568 58.8168,90.72 56.7,90.72 L56.7,90.72 Z M105.84,75.6 L7.56,75.6 L7.56,7.56 L105.84,7.56 L105.84,75.6 L105.84,75.6 Z" id="path-1"></path>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.24 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-3" x="37.8" y="105.84" width="37.8" height="7.56"></rect>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.24 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="CV-Material-design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-488.000000, -2296.000000)">
+            <g id="Testing-taidot-Copy-5" transform="translate(526.000000, 2334.000000)">
+                <g id="Group-25" transform="translate(0.000000, -0.000000)" stroke-width="75.6" stroke-linecap="round">
+                    <ellipse id="Oval-98-Copy-9" stroke-opacity="0.2" stroke="#979797" cx="378" cy="378" rx="378" ry="378"></ellipse>
+                    <path d="M272.627461,14.8819093 C115.138559,60.5037435 0,205.805846 0,378 C0,586.763635 169.236365,756 378,756 L378,756 C586.763635,756 756,586.763635 756,378 C756,169.236365 586.763635,0 378,0" id="Oval-98-Copy-13" stroke="#00ABFB"></path>
+                </g>
+                <g id="Group-26" transform="translate(96.000000, 96.000000)" stroke-width="75.6" stroke-linecap="round">
+                    <ellipse id="Oval-98-Copy-10" stroke-opacity="0.2" stroke="#979797" cx="283.5" cy="283.5" rx="283.5" ry="283.5"></ellipse>
+                    <path d="M3.75806705,329.775626 C25.8499966,464.33667 142.685846,567 283.5,567 L283.5,567 C440.072727,567 567,440.072727 567,283.5 C567,126.927273 440.072727,-5.68434189e-14 283.5,-5.68434189e-14" id="Oval-98-Copy-14" stroke="#00BFD8"></path>
+                </g>
+                <g id="Group-27" transform="translate(192.000000, 192.000000)" stroke-width="75.6" stroke-linecap="round">
+                    <ellipse id="Oval-98-Copy-11" stroke-opacity="0.2" stroke="#979797" cx="189" cy="189" rx="189" ry="189"></ellipse>
+                    <path d="M134.12975,369.911979 C151.495119,375.171905 169.917291,378 189,378 L189,378 C293.381818,378 378,293.381818 378,189 C378,84.6181823 293.381818,-2.84217094e-14 189,-2.84217094e-14" id="Oval-98-Copy-15" stroke="#009988"></path>
+                </g>
+                <g id="Group-9" transform="translate(324.000000, 324.000000)">
+                    <g id="Shape">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                    <g id="Rectangle">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

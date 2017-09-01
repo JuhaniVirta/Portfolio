@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="305px" height="217px" viewBox="0 0 305 217" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 4</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="9.85464277%" y1="29.0835839%" x2="90.431475%" y2="77.6016121%" id="linearGradient-1">
+            <stop stop-color="#00ABFB" offset="0%"></stop>
+            <stop stop-color="#00BFD8" offset="48.6248406%"></stop>
+            <stop stop-color="#009988" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="CV-Material-design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-915.000000, -1306.000000)">
+            <g id="Group-4" transform="translate(904.000000, 1249.500000)">
+                <text id="Practical" font-family="Lato-Light, Lato" font-size="25" font-weight="300" letter-spacing="0.78125" fill="#FFFFFF">
+                    <tspan x="121" y="272">Practical</tspan>
+                </text>
+                <text id="UX" fill="url(#linearGradient-1)" font-family="Lato-Black, Lato" font-size="220" font-weight="700">
+                    <tspan x="0.32" y="217">UX</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

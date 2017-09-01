@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="311px" height="238px" viewBox="0 0 311 238" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="CV-Material-design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M265.142,74.442 C252.933,81.489 237.715,72.65 237.715,58.605 L237.715,0.286 L203.997,0.286 C207.407,37.432 178.548,73.429 137.143,73.429 C95.926,73.429 66.862,37.617 70.289,0.286 L0,0.286 L0,219.715 C-2.84217094e-14,229.813 8.187,238 18.286,238 L237.715,238 L237.715,143.085 C237.715,129.016 252.98,120.225 265.142,127.248 C285.098,138.766 310.858,124.659 310.858,100.845 C310.857,77.01 285.079,62.934 265.142,74.442 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+    </g>
+</svg>

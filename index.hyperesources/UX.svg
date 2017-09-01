@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="305px" height="163px" viewBox="0 0 305 163" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>UX</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="9.85464277%" y1="29.0835839%" x2="90.431475%" y2="77.6016121%" id="linearGradient-1">
+            <stop stop-color="#00ABFB" offset="0%"></stop>
+            <stop stop-color="#00BFD8" offset="48.6248406%"></stop>
+            <stop stop-color="#009988" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="CV-Material-design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-size="220" font-family="Lato-Black, Lato" font-weight="700">
+        <g id="Desktop-HD" transform="translate(-915.000000, -1306.000000)" fill="url(#linearGradient-1)">
+            <text id="UX">
+                <tspan x="904.32" y="1466.5">UX</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="419px" height="419px" viewBox="0 0 419 419" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Testing-taidot Copy 7</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M167.64,173.687619 L167.64,177.497619 L167.64,181.307619 L167.64,219.407619 L171.45,223.217619 L205.74,223.217619 L213.36,223.217619 L217.17,219.407619 L217.17,192.737619 L217.17,181.307619 L217.17,177.497619 L217.17,173.687619 L213.36,169.877619 L205.74,169.877619 L205.74,173.687619 L213.36,173.687619 L213.36,177.497619 L213.36,181.307619 L213.36,196.547619 L213.36,219.407619 L205.74,219.407619 L171.45,219.407619 L171.45,181.307619 L171.45,177.497619 L171.45,173.687619 L179.07,173.687619 L179.07,169.877619 L171.45,169.877619 L167.64,173.687619 L167.64,173.687619 Z M201.93,177.497619 L201.93,173.687619 L201.93,169.877619 L201.93,166.067619 L194.31,166.067619 L182.88,166.067619 L182.88,169.877619 L182.88,173.687619 L182.88,177.497619 L201.93,177.497619 L201.93,177.497619 Z M190.5,169.877619 L192.405,169.877619 L194.31,169.877619 L194.31,171.782619 L194.31,173.687619 L192.405,173.687619 L190.5,173.687619 L190.5,171.782619 L190.5,169.877619 L190.5,169.877619 Z M175.26,181.307619 L175.26,192.737619 L186.69,192.737619 L186.69,181.307619 L175.26,181.307619 L175.26,181.307619 Z M190.5,181.307619 L190.5,185.117619 L209.55,185.117619 L209.55,181.307619 L190.5,181.307619 L190.5,181.307619 Z M190.5,188.927619 L190.5,192.737619 L209.55,192.737619 L209.55,188.927619 L190.5,188.927619 L190.5,188.927619 Z M175.26,196.547619 L175.26,200.357619 L209.55,200.357619 L209.55,196.547619 L175.26,196.547619 L175.26,196.547619 Z M175.26,204.167619 L175.26,207.977619 L209.55,207.977619 L209.55,204.167619 L175.26,204.167619 L175.26,204.167619 Z M175.26,211.787619 L175.26,215.597619 L209.55,215.597619 L209.55,211.787619 L175.26,211.787619 L175.26,211.787619 Z" id="path-1"></path>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.24 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="CV-Material-design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-186.000000, -2579.000000)">
+            <g id="Testing-taidot-Copy-7" transform="translate(205.000000, 2598.000000)">
+                <g id="Group-25" stroke-width="37.8" stroke-linecap="round">
+                    <ellipse id="Oval-98-Copy-9" stroke-opacity="0.2" stroke="#979797" cx="190.5" cy="190.5" rx="190.5" ry="190.5"></ellipse>
+                    <path d="M190.5,0 C295.710245,0 381,85.2897552 381,190.5 C381,295.710245 295.710245,381 190.5,381 C85.2897552,381 0,295.710245 0,190.5 C0,103.089313 58.8721473,29.4289519 139.128369,7.00699111" id="Oval-98-Copy-12" stroke="#00ABFB"></path>
+                </g>
+                <g id="Group-26" transform="translate(48.380952, 48.380952)" stroke-width="37.8" stroke-linecap="round">
+                    <ellipse id="Oval-98-Copy-10" stroke-opacity="0.2" stroke="#979797" cx="142.875" cy="142.875" rx="142.875" ry="142.875"></ellipse>
+                    <path d="M142.875,0 C221.782684,0 285.75,63.9673164 285.75,142.875 C285.75,221.782684 221.782684,285.75 142.875,285.75 C63.9673164,285.75 0,221.782684 0,142.875 C0,135.389896 0.575592636,128.039229 1.68493031,120.864846" id="Oval-98-Copy-19" stroke="#00BFD8"></path>
+                </g>
+                <g id="Group-27" transform="translate(96.761905, 96.761905)" stroke-width="37.8" stroke-linecap="round">
+                    <ellipse id="Oval-98-Copy-11" stroke-opacity="0.2" stroke="#979797" cx="95.25" cy="95.25" rx="95.25" ry="95.25"></ellipse>
+                    <path d="M96.7619048,0 C149.367027,0 192.011905,42.6448776 192.011905,95.25 C192.011905,116.536998 185.028944,136.193037 173.228744,152.052397" id="Oval-98-Copy-5" stroke="#009988"></path>
+                </g>
+                <g id="Shape">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
